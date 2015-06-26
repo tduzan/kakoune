@@ -2,7 +2,7 @@ require "formula"
 
 class Kakoune < Formula
   homepage "https://github.com/mawww/kakoune"
-  head "https://github.com/mawww/kakoune.git"
+  head "https://github.com/tduzan/kakoune.git"
 
   depends_on 'boost'
 
